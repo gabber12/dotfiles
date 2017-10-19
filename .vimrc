@@ -1,4 +1,3 @@
-
 "List plugins (install with vundle)
 " Plugin 'vmarik/Vundle.vim'
 " Plugin 'lervag/vimtex'
@@ -7,8 +6,9 @@
 " Plugin 'eagletmt/neco-ghc'
 " Plugin 'Shougo/neocomplete.vim'
 " Plugin 'basepi/vim-conque'
-" " Plugin 'tpope/vim-fugitive'
+" Plugin 'tpope/vim-fugitive'
 
+" ctrlp.vim to be added manually
 
 set t_Co=256
 syntax enable
